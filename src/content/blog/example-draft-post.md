@@ -1,21 +1,17 @@
 ---
-title: Example Draft Post
-author: Sat Naing
-pubDatetime: 2022-06-06T04:06:31Z
+title: First post, First signs of wildness
+author: dodoGames
+pubDatetime: 2024-01-28T00:17:06+0000
 slug: example-draft-post
 featured: false
-draft: true
+draft: false
 tags:
-  - TypeScript
-  - Astro
+  - site-related
 description:
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel
-  fringilla est
+  The beginning of absurdity
 ---
 
-Users cannot see this post because it is in draft.
+Ayooo. If you're here then welcome to my most pointless blogging i have ever made! There's nothing much here aside from like posting my opinions or anything regarding my bot's projects! This blogging can be mostly used for anything i want so you're not really forced to like follow up with each post i could create so.
 
-## Motivation
+Have a nice day!
 
-rec 1
