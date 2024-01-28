@@ -1,7 +1,7 @@
 ---
 title: First post, First signs of wildness
 author: dodoGames
-pubDatetime: 2024-01-28T00:17:06+0000
+pubDatetime: 2024-01-28T00:17:06
 slug: example-draft-post
 featured: false
 draft: false
