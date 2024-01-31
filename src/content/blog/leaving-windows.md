@@ -42,4 +42,5 @@ Fact: Originally, they were going to actually bring back the start menu in a cer
 ### Ads and forcing people to use their stuff
 Ever since Windows 8 or Windows 10, Microsoft tries it's best to force most of the users to use their product. For example Microsoft has attempted [2](https://www.theverge.com/2017/3/9/14872464/windows-10-onedrive-ads-inside-file-explorer) [times](https://www.theverge.com/2022/3/15/22979251/microsoft-file-explorer-ads-windows-11-testing) to put advertisement to their products on File Explorer. One time was in a insider Preview build of Windows 10 for OneDrive and the other this time being in Windows 11 for their "editor".
 
-Microsoft Edge was also largely used for forcing ads on their users a couple of times such as giving excuse to the user when attempting to download Chrome on there
+Microsoft Edge was also largely used for forcing ads on their users a couple of times such as giving excuse to the user when attempting to download Chrome on [there](https://www.pcmag.com/news/microsoft-is-displaying-multiple-edge-ads-on-googles-chrome-download-page). Sometime ago, they made Edge act like [malware](https://www.theverge.com/2023/8/30/23851902/microsoft-bing-popups-windows-11-malware) pop-up.
+
