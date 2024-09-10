@@ -5,7 +5,6 @@ export const SITE: Site = {
   author: "dodoGames",
   desc: "The most reasonable place to create blogs for no reason about my stuff.",
   title: "The useless paper",
-  ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
