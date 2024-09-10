@@ -4,7 +4,7 @@ export const SITE: Site = {
   website: "https://dodogames7.github.io", // replace this with your deployed domain
   author: "dodoGames",
   desc: "The most reasonable place to create blogs for no reason about my stuff.",
-  title: "The useless paper",
+  title: "The basement blog",
   lightAndDarkMode: true,
   postPerPage: 3,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
