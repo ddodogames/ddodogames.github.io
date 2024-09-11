@@ -26,7 +26,7 @@ i told him how is that, and he told me it was a horror and auspicious experience
 some chips are fried up because of load the blood moon was powerful enough to destroy my Xbox
 sadly we could not see the blood moon ever again it was horror and scary too 
 but i wish my experience would help the other players to face the same cases
-ogImage: "https://media.discordapp.net/attachments/1283418374659113044/1283418484167938119/Untitled-1-Recovered.png?ex=66e2ec1b&is=66e19a9b&hm=89afc204534e46de5a7ba4f39131e3a6810821d3f0193c4636a1d9d96255913e&=&format=webp&quality=lossless&width=902&height=486"
+![something](@assets/images/bloodmoontb.png)
 
 Moral: Once the Blood Moon rises in the Sky: Leave The  World At Any cost because It Will Destroy Your PC or Console Too...
 ---
